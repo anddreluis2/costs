@@ -5,7 +5,7 @@
     text-decoration: none;
     transition: 500ms;
     cursor: pointer;
-    border:none;
+    border:solid;
 }
 
 .btn:hover{
